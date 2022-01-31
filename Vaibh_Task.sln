@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaibh_Task", "Vaibh_Task\Vaibh_Task.csproj", "{625AC17E-BFE0-4AF1-B5DE-1F3A7E4241B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625AC17E-BFE0-4AF1-B5DE-1F3A7E4241B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625AC17E-BFE0-4AF1-B5DE-1F3A7E4241B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625AC17E-BFE0-4AF1-B5DE-1F3A7E4241B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625AC17E-BFE0-4AF1-B5DE-1F3A7E4241B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E90994-4D95-4AF1-82BD-D0F0EEAF50DA}
+	EndGlobalSection
+EndGlobal
